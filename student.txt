@@ -1,0 +1,8 @@
+High School
+================
+
+Name        Birthday        email
+-----       ---------       ------
+ABC         5-06-1875       abc@gulugulu.com
+DEF         4-96-1567       def@og.com.in
+XYZ         4-96-1345       xyz@jhunjhun.com
